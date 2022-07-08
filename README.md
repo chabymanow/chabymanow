@@ -1,14 +1,14 @@
-- Hi, I'm Csaba Jega. I am currently studying lot of things in same time because why not.
-- I’m interested in 
-- * Python
-- * JavaScript
-- * HTML
-- * CSS and SCSS
-- * Laravel
-- * VUE.js
-- I’m currently learning Laravel but sometimes I jump to something else.
-- I’m looking to collaborate on anyone who I can learn from or anyone who I can teach.
-- How to reach me: chabymanow@gmail.com or twitter @jega_csaba
+Hi, I'm Csaba Jega. I am currently studying lot of things in same time because why not.<br /><br />
+I’m interested in <br />
+[![My Skills](https://skills.thijs.gg/icons?i=python)](https://skills.thijs.gg) **Python**<br />
+[![My Skills](https://skills.thijs.gg/icons?i=javascript)](https://skills.thijs.gg) **JavaScript**<br />
+[![My Skills](https://skills.thijs.gg/icons?i=html)](https://skills.thijs.gg) **HTML**<br />
+[![My Skills](https://skills.thijs.gg/icons?i=css)](https://skills.thijs.gg) **CSS and SCSS**<br />
+[![My Skills](https://skills.thijs.gg/icons?i=laravel)](https://skills.thijs.gg) **Laravel**<br />
+[![My Skills](https://skills.thijs.gg/icons?i=vue)](https://skills.thijs.gg) **VUE.js**<br /><br />
+I’m currently learning Laravel and VUE.js but sometimes I jump to something else.<br />
+I’m looking to collaborate on anyone who I can learn from or anyone who I can teach.<br /><br />
+How to reach me: chabymanow@gmail.com or twitter @jega_csaba
 
 <!---
 chabymanow/chabymanow is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
