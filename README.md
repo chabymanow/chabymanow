@@ -9,6 +9,7 @@ I’m interested in <br />
 [![My Skills](https://skills.thijs.gg/icons?i=vue)](https://skills.thijs.gg) **VUE.js**<br /><br />
 [![My Skills](https://skills.thijs.gg/icons?i=react)](https://skills.thijs.gg) **React**<br />
 [![My Skills](https://skills.thijs.gg/icons?i=nextjs)](https://skills.thijs.gg) **Next.js**<br />
+
 I’m currently learning Laravel and VUE.js but sometimes I jump to something else.<br />
 I’m looking to collaborate on anyone who I can learn from or anyone who I can teach.<br /><br />
 How to reach me: chabymanow@gmail.com or twitter @jega_csaba
