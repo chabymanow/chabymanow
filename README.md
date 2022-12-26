@@ -4,6 +4,7 @@ I’m interested in <br />
 [![My Skills](https://skills.thijs.gg/icons?i=javascript)](https://skills.thijs.gg) **JavaScript**<br />
 [![My Skills](https://skills.thijs.gg/icons?i=html)](https://skills.thijs.gg) **HTML**<br />
 [![My Skills](https://skills.thijs.gg/icons?i=css)](https://skills.thijs.gg) **CSS and SCSS**<br />
+[![My Skills](https://skills.thijs.gg/icons?i=php)](https://skills.thijs.gg) **PHP**<br />
 [![My Skills](https://skills.thijs.gg/icons?i=laravel)](https://skills.thijs.gg) **Laravel**<br />
 [![My Skills](https://skills.thijs.gg/icons?i=vue)](https://skills.thijs.gg) **VUE.js**<br /><br />
 [![My Skills](https://skills.thijs.gg/icons?i=react)](https://skills.thijs.gg) **React**<br />
